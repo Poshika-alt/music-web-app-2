@@ -1,0 +1,54 @@
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#header{
+    font-family: 'Acme', sans-serif;
+}
+
+.note{
+    font-size: 18px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+.speed{
+    float: left;
+}
+
+
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.volume{
+    float: right;
+}
+
+
+#volume{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play{
+    width:130px;
+    font-size: 25px;
+}
+
+.stop{
+    width:130px;
+    font-size: 25px;
+}
+
+.canvas{
+    border: 5px solid white;
+    border-radius: 5px;
+}
